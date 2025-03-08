@@ -1,4 +1,4 @@
-# 📷 **React Native Image & Video Gallery App**  **Not Finished**
+# 📷 **React Native Image & Video Gallery App**  **(🟢 Ongoing)**
 
 A **React Native** app that displays a beautiful gallery of **images** and **videos**, with search functionality, categories, animations, and download support.
 
